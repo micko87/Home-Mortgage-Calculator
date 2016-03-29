@@ -1,8 +1,8 @@
-## BasicProject
+## Home-Mortgage-Calculator
 
-### March 25, 2016
+### March 28, 2016
 
-My third version controlled project
+My sixth version controlled project
 
 * git 
 * Java 7
